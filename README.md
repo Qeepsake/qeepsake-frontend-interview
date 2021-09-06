@@ -12,7 +12,7 @@ Welcome to the Qeepsake frontend engineering interview 💻 At Qeepsake we care 
 
 The aim of the project is to build the following selection and list interface in the langauge / framework of your choice.
 
-<img width="375" alt="Screenshot 2021-09-06 at 14 15 44" src="https://user-images.githubusercontent.com/18139277/132216139-54dfcf4a-92d6-4244-844a-dabc7de63c6b.png">
+<img width="375" alt="Screenshot 2021-09-06 at 14 47 21" src="https://user-images.githubusercontent.com/18139277/132219807-0f780b13-f8e6-417d-bc52-625eadfcf1c5.png">
 
 Figma: https://www.figma.com/file/flr1dosD8GJ2xxCTy7K5Wc/Qeepsake-Frontend-Interview?node-id=0%3A1
 
