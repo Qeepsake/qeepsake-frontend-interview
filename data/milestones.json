@@ -1,0 +1,29 @@
+{
+    "journals": [
+        {
+            "title": "First Time Singing Alphabet",
+            "description": "When did %NAME% learn to sing the alphabet?",
+            "locked": false
+        },
+        {
+            "title": "First Unassisted Bike Ride",
+            "description": "When did %NAME% start riding a bike without training wheels?",
+            "locked": false
+        },
+        {
+            "title": "First Tooth",
+            "description": "When did %NAME% get her first tooth?",
+            "locked": false
+        },
+        {
+            "title": "First Feeding",
+            "description": "When did you first feed %NAME%?",
+            "locked": true
+        },
+        {
+            "title": "First Family Photo",
+            "description": "When was your first family photo taken with %NAME%?",
+            "locked": false
+        }
+    ]
+}
