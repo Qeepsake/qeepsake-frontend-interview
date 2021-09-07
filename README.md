@@ -5,7 +5,7 @@ Welcome to the Qeepsake frontend engineering interview 💻 At Qeepsake we care 
 ## Key Points
 
 - In the project below you will be given a design specification with product requirements.
-- You can complete the tasks in any of the following lanaguges: React, React Native, Swift, Objective-C, Java, Kotolin. If your langauge of choice is mentioned here, then please ask a Qeepsake tech team member to pre-approve your choice.
+- You can complete the tasks in any of the following lanaguges: React, React Native, Swift, Objective-C, Java, Kotolin. If your langauge of choice isn't mentioned here, then please ask a Qeepsake tech team member to pre-approve your choice., then please ask a Qeepsake tech team member to pre-approve your choice.
 - Once complete you must upload the project to your Github account, set it to private (!IMPORTANT), and share it with both [NMPHalpern](https://github.com/NMPHalpern) and [lukebrandonfarrell](https://github.com/lukebrandonfarrell).
 
 ## Project Details
