@@ -36,7 +36,7 @@ The requirements of the project are intentially vauge as we want to allow space 
 
 You have one hour to complete this exercise.
 
-- If you are using React Native then you just want to init a fresh react native application and go from there: `npx react-native init AwesomeProject` (https://reactnative.dev/docs/environment-setup).
+- If you are using React Native then you just want to init a fresh react native application and go from there: `npx react-native init QeepsakeInterview` (https://reactnative.dev/docs/environment-setup).
 - If you are using React then feel free to use the toolset you are most confortable with: [create-react-app](https://github.com/facebook/create-react-app), [next.js](https://nextjs.org/) etc.
 
 Once you have completed your project, as stated above, upload to your Github, set to private, and add both [NMPHalpern](https://github.com/NMPHalpern) and [lukebrandonfarrell](https://github.com/lukebrandonfarrell). Please also include instructions on how to run your project, if you didn't use React Native or create-react-app.
