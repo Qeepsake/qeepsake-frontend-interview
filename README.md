@@ -25,13 +25,18 @@ Figma: https://www.figma.com/file/flr1dosD8GJ2xxCTy7K5Wc/Qeepsake-Frontend-Inter
 - Each list of milestones is seperate per journal. For example, if you answer the first milestone in the journal of Isabella, then the purple ribbon should not be present on the first milestone of any other journal.
 - If a milestone has a property of `locked: true` then the description text should say "Upgrade to unlock milestone" and when clicked an Alert should appear to let you know it is locked.
 
-#### Bonus Reequirements
+#### Bonus Reequirements (only if you have extra time)
 
 - Are you able to animate the list when switching between journals?
 - We have had a new user request for support to re-order milestones. Are you able to implement drag to re-order on the list? And maintain the order after a refresh of the application?
 
 The requirements of the project are intentially vauge as we want to allow space for creativity, building better solutions instead of following the instructions verbatim. Use the requirements as a guideline, but don't be afraid to provide out of the box solutions, and to go further than the requiremets in your project.
 
-## What are we looking for?
+## Getting Started
 
-We are looking for attention to detail in terms of design. We are also looking to understand your problem solving skills.
+You have one hour to complete this exercise.
+
+- If you are using React Native then you just want to init a fresh react native application and go from there: `npx react-native init AwesomeProject` (https://reactnative.dev/docs/environment-setup).
+- If you are using React then feel free to use the toolset you are most confortable with: [create-react-app](https://github.com/facebook/create-react-app), [next.js](https://nextjs.org/) etc.
+
+Once you have completed your project, as stated above, upload to your Github, set to private, and add both [NMPHalpern](https://github.com/NMPHalpern) and [lukebrandonfarrell](https://github.com/lukebrandonfarrell). Please also include instructions on how to run your project, if you didn't use React Native or create-react-app.
