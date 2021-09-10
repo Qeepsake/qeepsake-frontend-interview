@@ -18,17 +18,18 @@ Figma: https://www.figma.com/file/flr1dosD8GJ2xxCTy7K5Wc/Qeepsake-Frontend-Inter
 
 #### Essential Requirements 
 
+The aim of the task is to design the screen above.
+
+- Start from a fresh React, React Native, etc project.
 - There will be four journals: Sadie, Isabella, Peter and Jonathan. The data for these journals can be found in `journals.json`.
 - There will be five milestones which can be found in `milestones.json`.
-- Clicking a milestone will allow you to input text (this can be achived by a native Alert or web modal, implementation is up to you).
-- After inputting text the milestone will receive a purple ribbon with the month and year it was answered:<img width="86" alt="Screenshot 2021-09-06 at 14 25 42" src="https://user-images.githubusercontent.com/18139277/132217245-6442634f-706b-4ad1-a43b-fe45ed87d3db.png">. Don't worry, you don't need to display the text anywhere.
-- Each list of milestones is seperate per journal. For example, if you answer the first milestone in the journal of Isabella, then the purple ribbon should not be present on the first milestone of any other journal.
-- If a milestone has a property of `locked: true` then the description text should say "Upgrade to unlock milestone" and when clicked an Alert should appear to let you know it is locked.
+- Clicking between each journal will update the selected state for that journal.
 
 #### Bonus Reequirements (only if you have extra time)
 
-- Are you able to animate the list when switching between journals?
-- We have had a new user request for support to re-order milestones. Are you able to implement drag to re-order on the list? And maintain the order after a refresh of the application?
+- Clicking a milestone will allow you to input text (this can be achived by a native Alert or web modal, implementation is up to you).
+- After inputting text the milestone will receive a purple ribbon with the month and year it was answered: <img width="86" alt="Screenshot 2021-09-06 at 14 25 42" src="https://user-images.githubusercontent.com/18139277/132217245-6442634f-706b-4ad1-a43b-fe45ed87d3db.png">. Don't worry, you don't need to display the text anywhere.
+- If a milestone has a property of `locked: true` then the description text should say "Upgrade to unlock milestone" and when clicked an Alert should appear to let you know it is locked.
 
 The requirements of the project are intentially vauge as we want to allow space for creativity, building better solutions instead of following the instructions verbatim. Use the requirements as a guideline, but don't be afraid to provide out of the box solutions, and to go further than the requiremets in your project.
 
