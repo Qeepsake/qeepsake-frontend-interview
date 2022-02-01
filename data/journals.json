@@ -17,7 +17,7 @@
                     "title": "First Tooth",
                     "description": "When did %NAME% get her first tooth?",
                     "locked": false
-                },
+                }
             ]
         },
         {
@@ -32,7 +32,7 @@
                     "title": "First Family Photo",
                     "description": "When was your first family photo taken with %NAME%?",
                     "locked": false
-                },
+                }
             ],
         },
         {
@@ -42,7 +42,7 @@
                         "title": "First Time Singing Alphabet",
                         "description": "When did %NAME% learn to sing the alphabet?",
                         "locked": false
-                },
+                }
             ]
         },
         {
@@ -57,7 +57,7 @@
                     "title": "First Tooth",
                     "description": "When did %NAME% get her first tooth?",
                     "locked": false
-                },
+                }
             ]
         }
     ]
