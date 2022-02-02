@@ -12,7 +12,7 @@ Welcome to the Qeepsake frontend engineering interview 💻 At Qeepsake we care 
 
 The aim of the project is to build the following selection and list interface in the langauge / framework of your choice.
 
-<img width="446" alt="Screenshot 2021-09-09 at 09 47 33" src="https://user-images.githubusercontent.com/18139277/132645036-b73568b8-5e80-4195-a9ad-f582b90668e8.png">
+![Screenshot 2022-02-01 at 12 33 06](https://user-images.githubusercontent.com/18139277/151961337-45a1e47d-2136-403c-bc75-ce5d0b13b598.png)
 
 Figma: https://www.figma.com/file/flr1dosD8GJ2xxCTy7K5Wc/Qeepsake-Frontend-Interview?node-id=0%3A1
 
@@ -32,5 +32,6 @@ You have one hour to complete this exercise.
 - If you are using React Native then you just want to init a fresh react native application and go from there: `npx react-native init QeepsakeInterview` (https://reactnative.dev/docs/environment-setup).
 - If you are using React then feel free to use the toolset you are most confortable with: [create-react-app](https://github.com/facebook/create-react-app), [next.js](https://nextjs.org/) etc.
 - All the data for journals and milestones can be found in `data/journals.json`.
+- Other assets can be found in `/fonts` and `/images`.
 
 Once you have completed your project, as stated above, upload to your Github, set to private, and add both [NMPHalpern](https://github.com/NMPHalpern) and [lukebrandonfarrell](https://github.com/lukebrandonfarrell). Please also include instructions on how to run your project, if you didn't use React Native or create-react-app.
