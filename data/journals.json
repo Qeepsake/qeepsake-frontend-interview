@@ -5,18 +5,15 @@
             "milestones": [
                 {
                     "title": "First Time Singing Alphabet",
-                    "description": "When did %NAME% learn to sing the alphabet?",
-                    "locked": false
+                    "description": "When did %NAME% learn to sing the alphabet?"
                 },
                 {
                     "title": "First Unassisted Bike Ride",
-                    "description": "When did %NAME% start riding a bike without training wheels?",
-                    "locked": false
+                    "description": "When did %NAME% start riding a bike without training wheels?"
                 },
                 {
                     "title": "First Tooth",
-                    "description": "When did %NAME% get her first tooth?",
-                    "locked": false
+                    "description": "When did %NAME% get her first tooth?"
                 }
             ]
         },
@@ -25,23 +22,20 @@
             "milestones": [
                 {
                     "title": "First Feeding",
-                    "description": "When did you first feed %NAME%?",
-                    "locked": true
+                    "description": "When did you first feed %NAME%?"
                 },
                 {
                     "title": "First Family Photo",
-                    "description": "When was your first family photo taken with %NAME%?",
-                    "locked": false
+                    "description": "When was your first family photo taken with %NAME%?"
                 }
-            ],
+            ]
         },
         {
             "title": "Peter",
             "milestones": [
                 {
                         "title": "First Time Singing Alphabet",
-                        "description": "When did %NAME% learn to sing the alphabet?",
-                        "locked": false
+                        "description": "When did %NAME% learn to sing the alphabet?"
                 }
             ]
         },
@@ -50,13 +44,11 @@
             "milestones": [
                  {
                     "title": "First Unassisted Bike Ride",
-                    "description": "When did %NAME% start riding a bike without training wheels?",
-                    "locked": false
+                    "description": "When did %NAME% start riding a bike without training wheels?"
                 },
                 {
                     "title": "First Tooth",
-                    "description": "When did %NAME% get her first tooth?",
-                    "locked": false
+                    "description": "When did %NAME% get her first tooth?"
                 }
             ]
         }
