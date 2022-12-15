@@ -34,4 +34,4 @@ You have one hour to complete this exercise.
 - All the data for journals and milestones can be found in `data/journals.json`.
 - Other assets can be found in `/fonts` and `/images`.
 
-Once you have completed your project, as stated above, upload to your Github, set to private, and add both [NMPHalpern](https://github.com/NMPHalpern) and [lukebrandonfarrell](https://github.com/lukebrandonfarrell). Please also include instructions on how to run your project, if you didn't use React Native or create-react-app.
+Once you have completed your project, as stated above, upload to your Github, set to private, and add both [NMPHalpern](https://github.com/NMPHalpern), [lukebrandonfarrell](https://github.com/lukebrandonfarrell) [mpond531](https://github.com/mpond531) and [. Please also include instructions on how to run your project, if you didn't use React Native or create-react-app.
